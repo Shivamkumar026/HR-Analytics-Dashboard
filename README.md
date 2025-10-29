@@ -35,4 +35,7 @@ This Power BI project provides a comprehensive HR Analytics Dashboard designed t
 
 •	ETL (Data Transformation in Power Query)
 
+Screenshots / Demos
+Show what the dashboard looks like - https://github.com/Shivamkumar026/HR-Analytics-Dashboard/blob/master/snapshot%20of%20HR%20dashboard.png
+Example: https://github.com/Shivamkumar026/HR-Analytics-Dashboard/blob/master/snapshot%20of%20HR%20dashboard.png
 
